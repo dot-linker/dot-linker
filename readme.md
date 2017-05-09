@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/dot-linker/dot-linker.png?label=ready&title=Ready)](https://waffle.io/dot-linker/dot-linker)
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
